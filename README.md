@@ -1,0 +1,1 @@
+# C++ useful constexpr Stuff
